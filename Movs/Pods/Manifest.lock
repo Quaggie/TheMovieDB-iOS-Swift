@@ -1,0 +1,15 @@
+PODS:
+  - Cache (4.1.2)
+  - Kingfisher (4.6.1)
+
+DEPENDENCIES:
+  - Cache
+  - Kingfisher (~> 4.0)
+
+SPEC CHECKSUMS:
+  Cache: bd0233fc688b5e83a27bcd87807db7e6f23adcc5
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+
+PODFILE CHECKSUM: 85835e52fc4fbc18d85a652aded588fe83ed708e
+
+COCOAPODS: 1.4.0.rc.1

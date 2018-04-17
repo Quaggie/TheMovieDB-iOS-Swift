@@ -1,0 +1,15 @@
+platform :ios, ’11.2’
+
+target 'Movs' do
+  use_frameworks!
+
+  # Pods for Movs
+  pod 'Kingfisher', '~> 4.0'
+  pod 'Cache'
+
+  target 'MovsTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
