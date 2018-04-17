@@ -3,7 +3,8 @@
 ## O que é
 Um app simples sobre filmes populares usando a [API](https://developers.themoviedb.org/3/getting-started/introduction) do [TheMovieDB](https://www.themoviedb.org/?language=en)
 
--  [ScreenShots](assets/screenshots)
+## ScreenShots
+![Grid](assets/screenshots/1.png) ![Busca](assets/screenshots/1.png) ![Favoritos](assets/screenshots/1.png)
 
 # Funcionalidades
 - Tela de grid de filmes trazendo os mais populares da [API](https://developers.themoviedb.org/3/movies/get-popular-movies), busca local, scroll infinito com paginação
